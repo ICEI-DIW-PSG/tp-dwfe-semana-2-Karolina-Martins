@@ -8,7 +8,8 @@ Matricula: 916874
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![print inspeção](<images/Captura de tela 2026-03-11 095439.png>)
+![print index.hmtl](<images/Captura de tela 2026-03-11 095722.png>)
 
 
 ## Orientações sobre Linguagem MarkDown
